@@ -19,7 +19,7 @@
 | [Weerstand 10kΩ 1/4W - 10 stuks](https://www.tinytronics.nl/nl/componenten/weerstanden/weerstanden/weerstand-10k%CF%89-1-4w-10-stuks) | resistance | 1 | $0.56 | $0.56 | [Tinotronics](https://www.tinytronics.nl/nl/componenten/weerstanden/weerstanden/weerstand-10k%CF%89-1-4w-10-stuks) |
 | [pcb](https://jlcpcb.com) | pcb | 1 | $10.00 | $10.00 | [jlcpcb](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$35.55** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$35.55** | — |
+| **Tax & shipping** | — | — | — | **$30.00** | — |
+| **Total** | — | — | — | **$65.55** | — |
 
-**$5.55 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$35.55 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
