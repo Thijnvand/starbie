@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5h | 1 |
+| Week 1 | Tier 1 | 10h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-05 — October 5th: Starbie schematic, footprints and routing, and a lot of KiCad errors
 
-**5h**
+**10h**
 
 October 5th: Starbie schematic, footprints and routing, and a lot of KiCad errors
 Today I set up the whole Starbie project and wanted to get the schematic finished and see how far I could get with the PCB. I followed the Half-Life week 1 guide, but I'd never used KiCad before, so a big part of the session went into fixing things that didn't work.
@@ -41,6 +41,21 @@ Whenever I got stuck, I searched on Google and YouTube first. Only when I really
 tl;dr: Finished the schematic, footprints, layout and routing, and fixed the KiCad version, library and footprint errors.
 Next: Export the Gerbers, make a BOM, write the firmware and add a render to the README.
 Time spent this session: 5 hours
+ps: I could not to the A
+
+![Screenshot 2026-10-05 135636](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CpZKBREdtQJpg3Zd0ZnE3GL2jRbYLFgg/2b341d5dcb34a2aa2a48b38480233b113027b630e8b22f0dec67d950d8c1a69d.png)
+
+![Screenshot 2026-10-05 135743](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CpZKBREdtQJpg3Zd0ZnE3GL2jRbYLFgg/5122295bc6e0f417367e3f64be8f8cbb3c998a45b4dc07a23d8639e90d3d44f9.png)
+
+![Screenshot 2026-10-05 135747](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CpZKBREdtQJpg3Zd0ZnE3GL2jRbYLFgg/776e68d023eb4faa36196e88dd3002594b28b1c94203f67a90296b2d7042b06e.png)
+
+![Screenshot 2026-10-05 135753](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CpZKBREdtQJpg3Zd0ZnE3GL2jRbYLFgg/0ddc86ba0d61573b0ef589abc0486d159a3f65ac3aa807bda32ca4e04ee44bea.png)
+
+![Screenshot 2026-10-05 135758](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CpZKBREdtQJpg3Zd0ZnE3GL2jRbYLFgg/2443b0c437b81944e2c605e3c34800aac1079f455b1032e5d97890350ffa8380.png)
+
+![Screenshot 2026-10-05 135801](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CpZKBREdtQJpg3Zd0ZnE3GL2jRbYLFgg/20a25caaf109d3aea5c2c49889afba6d464f96533dae37c3c50c92e035d52a26.png)
+
+rduino part because it required a real XIAO ESP32-C3.
 
 ![Screenshot 2026-10-05 134653](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CpZKBREdtQJpg3Zd0ZnE3GL2jRbYLFgg/0e3f7aabc31ac64a3b7cd8710053a906e97ed5c117790c8f6efa64c70bfc042a.png)
 
